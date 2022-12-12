@@ -1,1 +1,0 @@
-../stow_dir/zsh/zsh
